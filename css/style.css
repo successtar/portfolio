@@ -1167,7 +1167,10 @@ keyframes animation
 	}
 }
 
+.thumbnail .caption{
+	overflow: hidden;
 
+}
 
 #social ul.social-list{
 	display: inline-block; 
